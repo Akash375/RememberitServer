@@ -1,0 +1,22 @@
+{
+  "name": "rememberitserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akash375/RememberitServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akash375/RememberitServer/issues"
+  },
+  "homepage": "https://github.com/Akash375/RememberitServer#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
